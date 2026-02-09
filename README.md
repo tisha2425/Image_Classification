@@ -73,3 +73,7 @@ This project trains a Convolutional Neural Network on the CIFAR-10 dataset to cl
 1. Install dependencies  
    ```bash
    pip install tensorflow matplotlib numpy
+2. Run the script
+   ```bash
+   python cifar10_cnn_training.py
+
